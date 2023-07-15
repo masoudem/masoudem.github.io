@@ -1,0 +1,19 @@
+/* A font family name and a generic family name */
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+div {
+    font-size: large;
+}
+
+nav {
+    font-size: larger;
+    font-weight: bold;
+}
+
+div h4 {
+    font-weight: bold;
+}
+
