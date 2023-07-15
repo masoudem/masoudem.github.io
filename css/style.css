@@ -29,7 +29,4 @@ div.col-8 {
     background-size: cover;
 }
 
-div::after {
-    opacity: 0.25;
-}
 
