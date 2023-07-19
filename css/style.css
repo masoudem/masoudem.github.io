@@ -22,7 +22,7 @@ div h4 {
     font-weight: bold;
 }
 
-div.col-md-8 {
+div.backim {
     background: linear-gradient(rgba(230, 230, 230, 0.85), rgba(255,255,255,.85)), url("../file/GettyImages-960988574_4c.jpg.webp");
     background-repeat: no-repeat;
     background-attachment: fixed;
